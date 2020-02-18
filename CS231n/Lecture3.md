@@ -1,6 +1,6 @@
-Loss Functions and Optimization
-[PPT](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture03.pdf)
-[VIDEO](https://www.youtube.com/watch?v=h7iBpEHGVNc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=3)
+Loss Functions and Optimization  
+[PPT](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture03.pdf)  
+[VIDEO](https://www.youtube.com/watch?v=h7iBpEHGVNc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=3)  
 
 ## Loss Functions
 对于 Linear Classifer f(x,W) = Wx + b  
@@ -39,4 +39,4 @@ log：就是计算指数，比如log8 == 3。 这是个缩略写法，程序复�
 
 e：自然常数，大概2.718281828459045235360...
 
-exp：就是e的x次方，比如exp(1)就是e的1次方~2.7818，exp(2)就是e的2次方~7.389
+exp：就是e的x次方，比如exp(1)就是e的1次方大概2.7818，exp(2)就是e的2次方大概7.389
