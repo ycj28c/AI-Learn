@@ -1,5 +1,5 @@
 Loss Functions and Optimization  
-[PPT](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture03.pdf)  
+[PPT](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture3.pdf)  
 [VIDEO](https://www.youtube.com/watch?v=h7iBpEHGVNc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=3)  
 
 ## Loss Functions
